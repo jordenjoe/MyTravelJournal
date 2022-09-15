@@ -7,7 +7,7 @@ export default [
         startDate: "June 2017",
         endDate: "",
         description: "My now-husband Reed and I hit a few spots in Croatia, and Dubrovnik was definitely our favorite. Mind you - this is when Game of Thrones was in peak popularity. We did a GoT tour of 'King's Landing'! Learning about the history and recovery of Dubrovnik after the war damage in the 1990s  was interesting and makes Dubrovnik a great spot for anyone interested in history. We also kayaked, hit the beaches, and walked the walls.",
-        imageUrl: "src/assets/croatia.png"
+        imageUrl: "croatia.png"
     },
 
     {
@@ -18,7 +18,7 @@ export default [
         startDate: "July 2018",
         endDate: "",
         description: "My childhood best friend, Kendall, and I went to Iceland the summer after I graduted from university. We had so much fun hiking, putting our tiny Kia rental car through treacherous roads, and riding icelandic horses. Although we got lost on a hike and ended up wandering through ranches for a couple hours, it was a fabulous trip. Fun fact: the sun hardly sets in Croatia in the summer. ",
-        imageUrl: "src/assets/iceland.png"
+        imageUrl: "iceland.png"
     },
 ,
     {
@@ -29,6 +29,6 @@ export default [
         startDate: "June 2019",
         endDate: "",
         description: "My dad and I did a whirlwind tour of the national parks a few years ago. Hiking the Narrows in Zion was a surreal experience. We rented special gear to make it easier to walk through the water. Some parts were so deep that I went swimming - the water is freezing cold. Fun fact: the Zion Canyon was carved over millions of years by the Virgin River and is approximately 2k feet deep.",
-        imageUrl: "src/assets/zion.png"
+        imageUrl: "zion.png"
     }
 ]
